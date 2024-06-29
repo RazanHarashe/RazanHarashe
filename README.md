@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Razan Harashe</h1>
 <h3 align="center">A Software developer from Palestine</h3>
 
-- 👨‍💻 My Portfolio available at [Portfolio](https://66802982c6a64944bf57cb7d--stirring-peony-a71fd6.netlify.app/)
-
 - 🌱 I’m currently learning **React,NodeJs**
 
 - 📫 How to reach me [harashe115@gmail.com](harashe115@gmail.com)
+
+-  👨‍💻 My Portfolio available at [Portfolio](https://66802982c6a64944bf57cb7d--stirring-peony-a71fd6.netlify.app/)
 
 - 📄 Know about my experiences [CV](https://drive.google.com/file/d/1n5g3BZxMAj59u7zA2rZHa0uHr5admxlk/view?usp=sharing)
 
