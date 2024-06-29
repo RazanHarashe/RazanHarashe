@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Razan Harashe</h1>
 <h3 align="center">A Software developer from Palestine</h3>
+<img align="right" width="400" src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif"  />
+<h3 align="left">About Me:</h3>
 
 - 🌱 I’m currently learning **React,NodeJs**
 
