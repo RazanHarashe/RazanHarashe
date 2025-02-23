@@ -9,7 +9,7 @@
 
 -  👨‍💻 My Portfolio available at [Portfolio](https://66802982c6a64944bf57cb7d--stirring-peony-a71fd6.netlify.app/)
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1n5g3BZxMAj59u7zA2rZHa0uHr5admxlk/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1bp85XP3I9gy67hqS0HJr3H1nzPmaHkh6/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
